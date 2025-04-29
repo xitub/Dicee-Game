@@ -1,4 +1,4 @@
-console.log("Hello, It's working!!");
+console.log("Hello, It's working!");
 function rolldice(){
 var num1 = Math.ceil(Math.random() * 6);
 var num2 = Math.ceil(Math.random() * 6);
